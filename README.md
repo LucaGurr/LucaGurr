@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: None :'(
 
-https://roadmap.sh/card/tall/67e85e7008b58aed6c92b166?variant=dark
+[![roadmap.sh](https://roadmap.sh/card/tall/67e85e7008b58aed6c92b166?variant=dark)](https://roadmap.sh)
 
 <!---
 LucaGurr/LucaGurr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
