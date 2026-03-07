@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucaGurr
 - 👀 I’m interested in Coding practical apps
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on my robotic arm project
 - 📫 How to reach me: if you need to reach me you already know :)
 - 😄 Pronouns: He/Him
